@@ -1,0 +1,2 @@
+sgminer 5.6.0-nicehash-48
+-o stratum+tcp://bestminer.eu:4933 -u ST8VZV4AM1o3hzcxhtj3ibjuL657CmvJqD [-p c=<SYMBOL>]
